@@ -1,0 +1,6 @@
+Commandes a executer après le clone
+
+npm install express --save
+npm install cassandra-driver
+npm install async
+

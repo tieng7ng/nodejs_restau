@@ -1,0 +1,12 @@
+{
+    "ip": "172.17.0.2",
+    "db": "movies",
+    "port": "3000",
+    
+    "mongodb": "restau",
+    "mongodbPort": "3000",
+    "mongodbLogin": "adminRestau",
+    "mongodbPassword": "azerty",
+
+    "tokenSecret" : "chatnewYork"
+}
